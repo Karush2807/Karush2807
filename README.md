@@ -1,3 +1,6 @@
+Sure, I'll help you update the LinkedIn URL in your profile. Here's the corrected code with the updated LinkedIn URL:
+
+html
 <h1 align="center">Hi 👋, I'm Arush</h1>
 <h3 align="center">A passionate Machine Learning developer from India</h3>
 
@@ -7,7 +10,7 @@
 
 - 🌱 I’m currently learning **Django, Machine Learning and Generative AI**
 
-- 👯 I’m looking to collaborate on **Machine Leanring and Django Projects**
+- 👯 I’m looking to collaborate on **Machine Learning and Django Projects**
 
 - 💬 Ask me about **Supervised Learning**
 
@@ -16,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/karnatakarush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karnatakarush" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Arush Karnatak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arush karnatak" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arush-karnatak-894bb52a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arush karnatak" height="30" width="40" /></a>
 <a href="https://instagram.com/karush2807.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karush2807.py" height="30" width="40" /></a>
 </p>
 
@@ -28,3 +31,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karush2807&show_icons=true&locale=en" alt="karush2807" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karush2807&" alt="karush2807" /></p>
+
+
+
+
+.
