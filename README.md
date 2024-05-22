@@ -1,4 +1,3 @@
-Sure, I'll help you update the LinkedIn URL in your profile. Here's the corrected code with the updated LinkedIn URL:
 
 html
 <h1 align="center">Hi 👋, I'm Arush</h1>
