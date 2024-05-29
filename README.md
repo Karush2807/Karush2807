@@ -1,5 +1,7 @@
+<div align="center">
+  <img src="https://octocat-generator-assets.githubusercontent.com/1717018582001.png" alt="My Octocat" height="200px">
+</div>
 
-html
 <h1 align="center">Hi 👋, I'm Arush</h1>
 <h3 align="center">A passionate Machine Learning developer from India</h3>
 
