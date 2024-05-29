@@ -36,7 +36,7 @@ html
 </a>
   <br>
 
-  <img width="808" src="https://github-readme-activity-graph.vercel.app/graph?username=Karush2807&bg_color=050f2c&color=00aeff&line=00aeff&point=ffffff&area=true&hide_border=true"/>
+<img width="808" src="https://github-readme-activity-graph.vercel.app/graph?username=Karush2807&bg_color=282a36&color=ff79c6&line=bd93f9&point=ffffff&area=true&hide_border=true"/>
      
 
 
