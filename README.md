@@ -29,29 +29,16 @@ html
 
 
 <a href="https://github.com/Karush2807">
-   <img height="155em"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karush2807&theme=algolia"/>
-   <img height="155em"  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Karush2807&theme=algolia" />
-   <img height="191em"  src="https://github-readme-stats.vercel.app/api?username=Karush2807&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&theme=algolia" />
-   <img height="191em"  src="https://github-readme-streak-stats.herokuapp.com/?user=Karush2807&theme=algolia&hide_border=true&stroke=0000"  />
+   <img height="155em"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karush2807&theme=dracula"/>
+   <img height="155em"  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Karush2807&theme=dracula" />
+   <img height="191em"  src="https://github-readme-stats.vercel.app/api?username=Karush2807&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&theme=dracula" />
+   <img height="191em"  src="https://github-readme-streak-stats.herokuapp.com/?user=Karush2807&theme=dracula&hide_border=true&stroke=0000"  />
 </a>
   <br>
 
   <img width="808" src="https://github-readme-activity-graph.vercel.app/graph?username=Karush2807&bg_color=050f2c&color=00aeff&line=00aeff&point=ffffff&area=true&hide_border=true"/>
      
-<!--
-<img width='500' alt= "stats card" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavBarthwal&theme=algolia&hide_border=false&stroke=0000"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=PranavBarthwal&show=reviews,prs_merged,prs_merged_percentage&theme=algolia" title="GitHub Stats" alt="GitHub Stats" width='500'  />
 
-<div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranavBarthwal&theme=algolia"/><br />
-</div>
--->
-
-<!-- <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=PranavBarthwal&show_icons=true&theme=algolia" alt="GitHub Stats" width="350">
-  <img alt= "stats card"  width="375" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavBarthwal&theme=algolia&hide_border=false&stroke=0000"/>
-</div> -->
 
 
 <p align="center"> 
