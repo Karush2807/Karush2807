@@ -29,10 +29,10 @@ html
 
 
 <a href="https://github.com/Karush2807">
-   <img height="155em" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karuah2807&theme=algolia"/>
-   <img height="155em" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Karuah2807&theme=algolia" />
-   <img height="191em" align="center" src="https://github-readme-stats.vercel.app/api?username=Karush2807&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&theme=algolia" />
-    <img height="191em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Karush2807&theme=algolia&hide_border=true&stroke=0000"  />
+   <img height="155em"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karuah2807&theme=algolia"/>
+   <img height="155em"  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Karush2807&theme=algolia" />
+   <img height="191em"  src="https://github-readme-stats.vercel.app/api?username=Karush2807&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&theme=algolia" />
+   <img height="191em"  src="https://github-readme-streak-stats.herokuapp.com/?user=Karush2807&theme=algolia&hide_border=true&stroke=0000"  />
 </a>
   <br>
 
