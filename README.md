@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://octocat-generator-assets.githubusercontent.com/1717018582001.png" alt="My Octocat" height="200px">
+  <img src="https://octocat-generator-assets.githubusercontent.com/octocat-1717018582001.png" alt="My Octocat" height="200px">
 </div>
 
 <h1 align="center">Hi 👋, I'm Arush</h1>
