@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://octocat-generator-assets.githubusercontent.com/octocat-1717018582001.png" alt="My Octocat" height="200px">
-  
-
-</div>
+![Ocatacat Image](https://github.com/Karush2807/Karush2807/blob/main/octocat-1717247601391.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Arush</h1>
 <h3 align="center">A passionate Machine Learning developer from India</h3>
