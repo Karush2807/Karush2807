@@ -1,4 +1,7 @@
-![Ocatacat Image](https://github.com/Karush2807/Karush2807/blob/main/octocat-1717247601391.png?raw=true)
+<div align="center">
+  <img src="https://github.com/Karush2807/Karush2807/blob/main/octocat-1717247601391.png?raw=true" width="300" height="300" alt="Octocat Image" />
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Arush</h1>
 <h3 align="center">A passionate Machine Learning developer from India</h3>
