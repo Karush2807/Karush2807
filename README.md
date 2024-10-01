@@ -53,7 +53,7 @@
 
 <div align="center">
   <!-- Hacktoberfest 2024 Badge -->
-  <img src="YOUR_HACKTOBERFEST_BADGE_URL" alt="Hacktoberfest 2024 Badge" width="300" />
+  <img src="[YOUR_HACKTOBERFEST_BADGE_URL](https://raw.githubusercontent.com/Karush2807/Karush2807/refs/heads/main/level0-sloth-code-0-0-0-0.webp)" alt="Hacktoberfest 2024 Badge" width="300" />
 
   <!-- Holopin Badges -->
   <a href="https://holopin.io/@karush2807">
