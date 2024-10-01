@@ -51,6 +51,12 @@
 
 </div>
 
+<div align="center">
+  <a href="https://holopin.io/@karush2807">
+    <img src="https://holopin.me/karush2807" alt="An image of @karush2807's Holopin badges, which is a link to view their full Holopin profile" />
+  </a>
+</div>
+
 
 
 
