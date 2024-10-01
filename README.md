@@ -52,10 +52,15 @@
 </div>
 
 <div align="center">
+  <!-- Hacktoberfest 2024 Badge -->
+  <img src="YOUR_HACKTOBERFEST_BADGE_URL" alt="Hacktoberfest 2024 Badge" width="300" />
+
+  <!-- Holopin Badges -->
   <a href="https://holopin.io/@karush2807">
     <img src="https://holopin.me/karush2807" alt="An image of @karush2807's Holopin badges, which is a link to view their full Holopin profile" />
   </a>
 </div>
+
 
 
 
