@@ -28,16 +28,9 @@ MLOps, Deep Learning: OpenCV [ CNN architectures, yolov8]<br>Full Stack Data Sci
   </tr>
 </table>
 
-<h2 align="center">Profile Stats</h2>
 
-<a href="https://github.com/Karush2807">
-   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karush2807&theme=gruvbox_light"/>
-   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Karush2807&theme=gruvbox_light" />
-   <img height="191em" src="https://github-readme-stats.vercel.app/api?username=Karush2807&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&theme=gruvbox_light" />
-   <img height="191em" src="https://github-readme-streak-stats.herokuapp.com/?user=Karush2807&theme=gruvbox_light&hide_border=true&stroke=0000" />
-</a>
 
-<img width="808" src="https://github-readme-activity-graph.vercel.app/graph?username=Karush2807&bg_color=050f2c&color=00aeff&line=00aeff&point=ffffff&area=true&hide_border=true"/>
+<img width="808" src="https://github-readme-activity-graph.vercel.app/graph?username=Karush2807&bg_color=fbf1c7&color=3c3836&line=d79921&point=458588&area=true&hide_border=true"/>
 
 <img src="https://stats.quine.sh/Karush2807/github?theme=gruvbox_light" width="400">
 <img src="https://stats.quine.sh/Karush2807/dependencies?theme=gruvbox_light" width="400"><br>
