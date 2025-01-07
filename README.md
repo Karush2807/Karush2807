@@ -1,5 +1,16 @@
 # 💫 About Me:
-MLOps, Deep Learning: OpenCV [ CNN architectures, yolov8]<br>Full Stack Data Science/DL:OpenCV Projects<br>Data Engineering, Python, AI, Deep Learning, MLOps<br>arushkarnatak1881@gmail.com<br>Hackathons/Meetups and make new connections
+
+- 🌱 I’m currently learning **MLOps, Deep Learning: OpenCV [ CNN architectures, yolov8]**
+
+- 🛠️ I’m currently working on **Vision-AID**
+
+- 💬 Ask me about **Data Engineering, Python, AI, Deep Learning, MLOps**
+
+- 📫 How to reach me **arushkarnatak1881@gmail.com**
+
+- 👨‍💻 Hackathons/Meetups and make new connections
+
+- ⚡ Strong intrest in **Data Engineering and OpenCV**.
 
 
 ## 🌐 Socials:
