@@ -21,17 +21,16 @@
 
 # <h2 align="center">Profile Stats</h2>
 
-
-<a href="https://github.com/Karush2807">
-   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karush2807&theme=algolia"/>
-   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karush2807&theme=algolia" />
-   <img height="191em" src="https://github-readme-stats.vercel.app/api?username=karush2807&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&theme=algolia" />
-   <img height="191em" src="https://github-readme-streak-stats.herokuapp.com?user=karush2807&theme=algolia(https://git.io/streak-stats)" />
-</a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karush2807&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karush2807&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karush2807&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=karush2807&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karush2807&theme=gruvbox&utcOffset=8)
 
 
 
-<img width="808" src="https://github-readme-activity-graph.vercel.app/graph?username=Karush2807&bg_color=fbf1c7&color=3c3836&line=d79921&point=458588&area=true&hide_border=true"/>
+
+
 
 <table>
   <tr>
