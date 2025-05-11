@@ -21,30 +21,25 @@
 
 <h2 align="center">Profile Stats</h2>
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karush2807&theme=gruvbox" alt="Profile Details" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karush2807&theme=gruvbox" alt="Repos per Language" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karush2807&theme=gruvbox" alt="Most Commit Language" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=karush2807&theme=gruvbox" alt="Stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karush2807&theme=gruvbox&utcOffset=8" alt="Productive Time" />
-</div>
+
+<a href="https://github.com/karush2807">
+   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karush2807&theme=algolia"/>
+   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karush2807&theme=algolia" />
+   <img height="191em" src="https://github-readme-stats.vercel.app/api?username=karush2807&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&theme=algolia" />
+    <img height="191em" src="https://github-readme-streak-stats.herokuapp.com/?user=karush2807&theme=algolia&hide_border=true&stroke=0000"  />
+</a>
+
+<img width="808" src="https://github-readme-activity-graph.vercel.app/graph?username=karush2807&bg_color=050f2c&color=00aeff&line=00aeff&point=ffffff&area=true&hide_border=true"/>
 
 
 
 
+  ##  GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=karush2807&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+###  Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=karush2807&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
-<table>
-  <tr>
-    <td><img src="https://stats.quine.sh/Karush2807/github?theme=gruvbox_light" width="400" alt="GitHub Stats Over Time"></td>
-    <td><img src="https://stats.quine.sh/Karush2807/dependencies?theme=gruvbox_light" width="400" alt="GitHub Dependencies"></td>
-  </tr>
-  <tr>
-    <td><img src="https://stats.quine.sh/Karush2807/topics-over-time?theme=gruvbox_light" width="400" alt="GitHub Topics Over Time"></td>
-    <td><img src="https://stats.quine.sh/Karush2807/languages-over-time?theme=gruvbox_light" width="400" alt="GitHub Languages Over Time"></td>
-  </tr>
-</table>
 
 </div>
 
